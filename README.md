@@ -22,7 +22,7 @@ The dataset used here represents an **incident-only subset**, meaning each row c
 
 This project compares break-in rates across urban, suburban, and rural areas:
 
-![Break-ins by Urbanicity](breakins_urbanicity.png)
+<img src="breakins_urbanicity.png" width="600">
 
 ---
 
